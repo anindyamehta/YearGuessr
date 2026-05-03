@@ -6,4 +6,4 @@ Privacy Policy for Year Guessr. Anindya Mehta built the YearGuessr app as a free
 2. Third-Party Sharing: Since we do not collect any data, no information is shared with third parties.
 3. Data Retention and Deletion: Because we do not collect any user data, we do not retain any information. There is no user data stored on our servers to be deleted.
 4.  Revoking Consent: As no data is collected, there is no consent required or maintained. Users can manage app permissions through their device settings at any time.
-5. Contact Us: If you have any questions about this Privacy Policy, please contact us at: anindyamehta@gmail.com
+5. Contact Us: If you have any questions about this Privacy Policy, please contact us at: anindyavmehta@gmail.com
