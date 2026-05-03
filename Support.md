@@ -1,3 +1,3 @@
 # YearGuessr
 
-For all support issues please contact me at: anindyamehta@gmail.com
+For all support issues please contact me at: anindyavmehta@gmail.com
